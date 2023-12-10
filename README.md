@@ -1,5 +1,7 @@
 ### Hi there, I'm João Pedro 👋
+![Portugal](https://raw.githubusercontent.com/lipis/flag-icons/main/flags/4x3/pt.svg "Portugal")
 ![France](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/fr.png "France")
+![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States")
 ===========================
 
 Passionate Self-Taught Developer | Pro Gamer & Coach
