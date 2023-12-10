@@ -15,11 +15,11 @@ I've been learning to code for 2 years with real world and production projects, 
 ### Skills and Expertise
 
 ### Web Development:
-- **Front-End**: JavaScript, React, Next.js, HTML5, CSS3, TailwindCSS
-- **Back-End**: Node.js, Express
+- **Front-End**: React, Next.js, Socket.IO HTML5, CSS3, TailwindCSS
+- **Back-End**: Node.js, Express, Socket.IO 
 
 ### Programming Languages:
-- TypeScript, C#, Python
+- JavaScript, TypeScript, C#, Python
 
 ### Additional Skills:
 - **Cloud & Deployment**: Firebase, Heroku
