@@ -14,12 +14,30 @@ I've been learning to code for 2 years with real world and production projects, 
 ### Skills and Expertise
 
 As a versatile developer, I'm proficient in:
-- Front-end technologies: JavaScript, React, NextJs, HTML5, CSS3, TailwindCSS
-- Back-end skills: NodeJS, Express
-- Languages: TypeScript, C#, Python
-- Others: Firebase, Heroku, Unity (for 3D gaming)
-- Design: Proficient in Adobe Photoshop
+Front-End Development:
+Languages & Frameworks: JavaScript (including ES6+), HTML5, CSS3
+JavaScript Frameworks/Libraries: React, Next.js
+Styling Frameworks: TailwindCSS
+Back-End Development:
 
+Runtime Environment: Node.js
+Framework: Express
+Programming Languages:
+
+JavaScript: Proficient in both front-end and back-end development
+TypeScript: Advanced usage in scalable and maintainable applications
+Python: Versatile language used for various scripting and automation tasks
+C#: Specialized in Unity for 3D gaming and application development
+Cloud Services and Deployment:
+
+Firebase: Experienced in utilizing Firebase for database, authentication, and hosting solutions
+Heroku: Proficient in deploying and managing applications
+Game Development:
+
+Unity: Skilled in creating 3D games and interactive experiences
+Design and Multimedia:
+
+Adobe Photoshop: Proficient in graphic design and image editing for web and game assets
 My comprehensive skill set enables me to handle diverse projects with efficiency and creativity.
 
 <p align="left">
