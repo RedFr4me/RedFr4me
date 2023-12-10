@@ -1,4 +1,5 @@
 ### Hi there, I'm João Pedro 👋
+🇵🇹
 ===========================
 
 Passionate Self-Taught Developer | Pro Gamer & Coach
