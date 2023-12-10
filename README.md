@@ -14,7 +14,7 @@ I've been learning to code for 2 years with real world and production projects, 
 ### Skills and Expertise
 
 As a versatile developer, I'm proficient in:
-- Front-End Development:
+## Front-End Development:
 - Languages & Frameworks: JavaScript (including ES6+), HTML5, CSS3
 JavaScript Frameworks/Libraries: React, Next.js
 - Styling Frameworks: TailwindCSS
