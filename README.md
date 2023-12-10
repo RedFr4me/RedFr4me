@@ -1,5 +1,5 @@
 ### Hi there, I'm João Pedro 👋
-🇵🇹
+![France](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/fr.png "France")
 ===========================
 
 Passionate Self-Taught Developer | Pro Gamer & Coach
