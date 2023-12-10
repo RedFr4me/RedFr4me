@@ -5,7 +5,7 @@ Passionate Self-Taught Developer | Pro Gamer & Coach
 ------------------------------------------
 I've been learning to code for 2 years with real world and production projects, I consider myself full stack developper, I made multiple websites, front & back end including one big project with 40+ fully secured api calls. I aslo made a 3d unity game and much more.
 
-* 🌍  23 years old based in France
+* 🌍  I'm based in France
 * 🖥️  See my portfolio at [MyPortfolio)](https://joao.henriques.pro)
 * ✉️  You can contact me at [groundsarts@gmail.com](mailto:groundsarts@gmail.com)
 * 🚀  I'm currently working on [Skoonova](http://skoonova.com)
