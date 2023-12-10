@@ -1,18 +1,16 @@
 ### Hi there, I'm João Pedro 👋
-![France](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/fr.png "France")
-![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States")
-🇵🇹
 ===========================
 
 Passionate Self-Taught Developer | Pro Gamer & Coach
 ------------------------------------------
 I've been learning to code for 2 years with real world and production projects, I consider myself full stack developper, I made multiple websites, front & back end including one big project with 40+ fully secured api calls. I aslo made a 3d unity game and much more.
 
-* 🌍  I'm based in France
+* 🌍  I'm based in France, born in Portugal but moved here when I was 5.
+* 🗣️  I flutently speak English, French and Portuguese. 
 * 🖥️  See my portfolio at [MyPortfolio](https://joao.henriques.pro)
 * ✉️  You can contact me at [groundsarts@gmail.com](mailto:groundsarts@gmail.com)
 * 🚀  I'm currently working on [Skoonova](https://skoonova.com)
-* 📘 I've been a coach (and manager for 2 years) at [ProGuides.com by AimLabs](https://proguides.com/coach/redfr4me/leagueoflegends) since september 2019! I've coached over 800+ students from beginner to semi-pro since then!
+* 📘  I've been a coach (and manager for 2 years) at [ProGuides.com by AimLabs](https://proguides.com/coach/redfr4me/leagueoflegends) since september 2019! I've coached over 800+ students from beginner to semi-pro since then!
 
 ### Skills and Expertise
 
