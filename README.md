@@ -2,7 +2,7 @@
 
 Passionate Self-Taught Developer | Pro Gamer & Coach
 ------------------------------------------
-I've been learning to code for 2 years with real world and production projects, I consider myself full stack developper, I made multiple websites, front & back end including one big project with 40+ fully secured api calls. I aslo made a 3d unity game and much more.
+I've been learning to code for 2 years with real world and production projects, I consider myself full stack developper, I made multiple websites, front & back end including one big project with 40+ fully secured api calls. I also made a 3d unity game and much more.
 
 * 🌍  I'm based in France, born in Portugal but moved here when I was 5.
 * 🗣️  I flutently speak English, French and Portuguese. 
