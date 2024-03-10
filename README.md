@@ -9,7 +9,8 @@ I've been learning to code for 2 years with real world and production projects, 
 * 🖥️  See my portfolio at [MyPortfolio](https://joao.henriques.pro)
 * ✉️  You can contact me at [groundsarts@gmail.com](mailto:groundsarts@gmail.com)
 * 🚀  I'm currently developping [Skoonova](https://skoonova.com)
-* 📘  I've been a coach, recruiter and manager for over 3 years at [ProGuides.com by AimLabs](https://proguides.com/coach/redfr4me/leagueoflegends) since september 2019! I've coached over 800+ students from beginner to semi-pro since then!
+* 📘  Previously working at [ProGuides.com](https://proguides.com) for over 3 years (2019-2023) as a coach of coaches, manager and only recruiter across all competitive games.
+* 📘  I'm currently still coaching as I've coached over 800+ students from beginners to semi-pros in the last 4 years. [ProGuides.com by AimLabs](https://proguides.com/coach/redfr4me/leagueoflegends)
 
 ### Skills and Expertise
 
