@@ -21,7 +21,7 @@ I've been learning to code for 2 years with real world and production projects, 
 - JavaScript, TypeScript, C#, Python
 
 ### Additional Skills:
-- **Cloud & Deployment**: Firebase, Heroku, Vercel, Vps
+- **Cloud & Deployment**: Firebase, Vercel, Heroku, Vps
 - **Database**: Firebase, MongoDB, Atlas
 - **Game Development**: Unity (3D gaming)
 - **Design**: Adobe Photoshop
