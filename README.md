@@ -8,7 +8,7 @@ I've been learning to code for 2 years with real world and production projects, 
 * 🗣️  I flutently speak English, French and Portuguese. 
 * 🖥️  See my portfolio at [MyPortfolio](https://joao.henriques.pro)
 * ✉️  You can contact me at [groundsarts@gmail.com](mailto:groundsarts@gmail.com)
-* 🚀  I'm currently working on [Skoonova](https://skoonova.com)
+* 🚀  I'm currently developping [Skoonova](https://skoonova.com)
 * 📘  I've been a coach (and manager for 3 years) at [ProGuides.com by AimLabs](https://proguides.com/coach/redfr4me/leagueoflegends) since september 2019! I've coached over 800+ students from beginner to semi-pro since then!
 
 ### Skills and Expertise
