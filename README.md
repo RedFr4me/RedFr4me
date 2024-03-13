@@ -7,7 +7,7 @@ I've been learning to code for 2 years with real world and production projects, 
 * 🌍  I'm based in France, born in Portugal but moved here when I was 5.
 * 🗣️  I flutently speak English, French and Portuguese. 
 * ✉️  You can contact me at [groundsarts@gmail.com](mailto:groundsarts@gmail.com)
-* 🚀  I'm currently solo developping [Skoonova.com](https://skoonova.com)
+* 🚀  I'm currently solo developing [Skoonova.com](https://skoonova.com)
 * 📘  Previously working at [ProGuides.com](https://proguides.com) for over 3 years (2019-2023) as a coach of coaches, manager and only recruiter across all competitive games.
 * 📘  With over 4 years of experience, I have coached more than 700 students ranging from beginners to semi-professionals. You can find my active profile at [ProGuides.com by AimLabs](https://proguides.com/coach/redfr4me/leagueoflegends).
 * ➡️  Currently working at: undefined
