@@ -6,7 +6,6 @@ I've been learning to code for 2 years with real world and production projects, 
 
 * 🌍  I'm based in France, born in Portugal but moved here when I was 5.
 * 🗣️  I flutently speak English, French and Portuguese. 
-* 🖥️  See my portfolio at [MyPortfolio](https://joao.henriques.pro)
 * ✉️  You can contact me at [groundsarts@gmail.com](mailto:groundsarts@gmail.com)
 * 🚀  I'm currently solo developping [Skoonova.com](https://skoonova.com)
 * 📘  Previously working at [ProGuides.com](https://proguides.com) for over 3 years (2019-2023) as a coach of coaches, manager and only recruiter across all competitive games.
