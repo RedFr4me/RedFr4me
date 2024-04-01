@@ -26,6 +26,7 @@ I've been learning to code for 2 years with real world and production projects, 
 - **Cloud & Deployment**: Firebase, Vercel, Heroku, Vps
 - **Database**: Firebase, MongoDB, Atlas
 - **Secured Payments**: Stripe, Paypal
+- **Customer Support**: Zendesk, Tidio, LiveChatAI
 - **Game Development**: Unity (3D gaming)
 - **Design**: Adobe Photoshop
 
