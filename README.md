@@ -9,7 +9,7 @@ I've been learning to code for 2 years with real world and production projects, 
 * 🗣️  I flutently speak English, French and Portuguese. 
 * ✉️  You may contact me at [groundsarts@gmail.com](mailto:groundsarts@gmail.com)
 * 🚀  I'm currently solo developing [Skoonova.com](https://skoonova.com) and [ProStats.lol](https://prostats.lol) 
-* 📘  Previously working at [ProGuides.com](https://proguides.com) for over 3 years (2019-2023) as the Head of Recruitment, manager and coach of coaches across all competitive games.
+* 📘  Previously working at [ProGuides.com](https://proguides.com) for over 3 years (2019-2023) as the Head of Recruitment, manager, growth team and coach of coaches across all competitive games.
 * 📘  With over 4 years of experience, I have coached over 700 students ranging from beginners to semi-professionals. You can find my active profile at [ProGuides.com by AimLabs](https://proguides.com/coach/redfr4me/leagueoflegends).
 * ➡️  Currently working at: undefined
 
